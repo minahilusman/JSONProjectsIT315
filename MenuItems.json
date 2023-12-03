@@ -1,5 +1,5 @@
 {
-  "Menu Items":
+  "MenuItems":
   [
     {"ItemID":1,"ItemName":"Chocolate Croissant","ItemDescription":"Buttery and flaky pastry filled with rich milk chocolate ganache.","ItemPrice":"$4.99","ItemStockLevel":"low stock","ItemServingSize":"1 pc.","ItemCalories":"300","ItemWebSite":"https://www.instagram.com/p/Cyb_36Bg8mr/","ItemImage":"https://raw.githubusercontent.com/minahilusman/JSONProjectsIT315/master/croissant.jpg"},
     {"ItemID":2,"ItemName":"Strawberry Cream Cake","ItemDescription":"Light and airy vanilla infused sponge filled and topped with fluffy whipped cream and fresh strawberries.","ItemPrice":"$6.99","ItemStockLevel":"out of stock","ItemServingSize":"1 slice","ItemCalories":"250","ItemWebSite":"https://www.instagram.com/p/CycCgiigPMH/","ItemImage":"https://raw.githubusercontent.com/minahilusman/JSONProjectsIT315/master/strawberry_cake.jpeg"},
