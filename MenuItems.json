@@ -1,0 +1,11 @@
+{
+  "Menu Items":
+  [
+    {"ItemID":1,"ItemName":"Chocolate Croissant","ItemDescription":"Buttery and flaky pastry filled with rich milk chocolate ganache.","ItemPrice":"$4.99","ItemStockLevel":"low stock","ItemServingSize":"1 pc.","ItemCalories":"300","ItemWebSite":"https://www.instagram.com/p/Cyb_36Bg8mr/","ItemImage":"https://raw.githubusercontent.com/minahilusman/JSONProjectsIT315/master/croissant.jpg"},
+    {"ItemID":2,"ItemName":"Strawberry Cream Cake","ItemDescription":"Light and airy vanilla infused sponge filled and topped with fluffy whipped cream and fresh strawberries.","ItemPrice":"$6.99","ItemStockLevel":"out of stock","ItemServingSize":"1 slice","ItemCalories":"250","ItemWebSite":"https://www.instagram.com/p/CycCgiigPMH/","ItemImage":"https://raw.githubusercontent.com/minahilusman/JSONProjectsIT315/master/strawberry_cake.jpeg"},
+    {"ItemID":3,"ItemName":"Macarons","ItemDescription":"Assorted meringue-based sandwich cookies consiting of a crisp shell, chewy center, and buttercream filling.","ItemPrice":"$5.99","ItemStockLevel":"in stock","ItemServingSize":"3 pcs.","ItemCalories":"210","ItemWebSite":"https://www.instagram.com/p/CycC7gngA0i/","ItemImage":"https://raw.githubusercontent.com/minahilusman/JSONProjectsIT315/master/macarons.jpeg"},
+    {"ItemID":4,"ItemName":"Fudgy Brownie","ItemDescription":"Super-moist and dense brownie oozing with chocolate fudge.","ItemPrice":"$3.99","ItemStockLevel":"in stock","ItemServingSize":"1 pc.","ItemCalories":"150","ItemWebSite":"https://www.instagram.com/p/CycDQx_A38L/","ItemImage":"https://raw.githubusercontent.com/minahilusman/JSONProjectsIT315/master/brownie.jpeg"},
+    {"ItemID":5,"ItemName":"Classic Eclair","ItemDescription":"Choux pastry filled with creamy custard and topped with chocolate ganache.","ItemPrice":"$4.99","ItemStockLevel":"low stock","ItemServingSize":"1 pc.","ItemCalories":"260","ItemWebSite":"https://www.instagram.com/p/CycDnujgmdg/","ItemImage":"https://raw.githubusercontent.com/minahilusman/JSONProjectsIT315/master/eclair.jpeg"}
+  ],
+  "Status":"OK" 
+}
